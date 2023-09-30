@@ -2,6 +2,10 @@
 
 This repository contains code for creating interactive buttons with icons using Ionicons. Customize the buttons and integrate them into your project. See `index.html` for the structure and `styles/InteractiveButtons_Styles.css` for styling.
 
+## Video Preview InteractiveButtons
+![Video](./preview.gif)
+
+
 ## Usage
 
 1. Clone or download this repo.
